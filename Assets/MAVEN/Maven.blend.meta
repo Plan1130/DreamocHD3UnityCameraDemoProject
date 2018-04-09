@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 9a7053c4ef8aee748bed14fdaece5d0e
+timeCreated: 1523025171
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: dish_frame
+    100002: foil_gold
+    100004: foil_silver
+    100006: //RootNode
+    100008: parts
+    100010: shiny_panel
+    100012: tex_01
+    400000: dish_frame
+    400002: foil_gold
+    400004: foil_silver
+    400006: //RootNode
+    400008: parts
+    400010: shiny_panel
+    400012: tex_01
+    2300000: dish_frame
+    2300002: foil_gold
+    2300004: foil_silver
+    2300006: //RootNode
+    2300008: parts
+    2300010: shiny_panel
+    2300012: tex_01
+    3300000: dish_frame
+    3300002: foil_gold
+    3300004: foil_silver
+    3300006: //RootNode
+    3300008: parts
+    3300010: shiny_panel
+    3300012: tex_01
+    4300000: _root
+    4300002: tex_01
+    4300004: foil_gold
+    4300006: shiny_panel
+    4300008: parts
+    4300010: foil_silver
+    4300012: dish_frame
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AO_dish_frame__untitled_001
+    second: {fileID: 2100000, guid: 554c3daa4f53b174b921d39fcfc76344, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AO_parts_01
+    second: {fileID: 2100000, guid: 46ccb05c03dd26f44b3ee525d21fc700, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AO_parts_01__AO_parts_01
+    second: {fileID: 2100000, guid: 0d90a9ac40ca9d54aa6e8e082c3af8fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AO_parts_02__AO_parts_04
+    second: {fileID: 2100000, guid: cc4589ff1435d8a419ae71349225961e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AO_parts_02__untitled
+    second: {fileID: 2100000, guid: 59e59863241890f4fbef60d0d199b023, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AO_parts_03__untitled_003
+    second: {fileID: 2100000, guid: 82dac85a30f3c354eb24b0a231f55fdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AO_parts_04__AO_parts_04
+    second: {fileID: 2100000, guid: cc4589ff1435d8a419ae71349225961e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AO_parts_05__untitled_004
+    second: {fileID: 2100000, guid: 7f17694375de7624c98485debce97038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foil_silver
+    second: {fileID: 2100000, guid: 0d90a9ac40ca9d54aa6e8e082c3af8fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foil_silver__AO_parts_04
+    second: {fileID: 2100000, guid: 341fbccc3e4efae4481c45ba6d072eb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foil_silver__foil_n_2_png
+    second: {fileID: 2100000, guid: 3d6ba2586e601b646a373a736ded08db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shiny_panel__tex_01_png
+    second: {fileID: 2100000, guid: 0cae9a76185916f4d904e3159cb4d4ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tex_01
+    second: {fileID: 2100000, guid: 0cae9a76185916f4d904e3159cb4d4ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tex_01__tex_01_png
+    second: {fileID: 2100000, guid: 1a2f8575137f39741b67bfef338168f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 95cfe1f72d1f17143a94bfc90b46220c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
