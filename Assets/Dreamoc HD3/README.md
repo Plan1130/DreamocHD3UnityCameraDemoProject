@@ -1,5 +1,9 @@
+# DreamocHD3UnityCamera
+
 This file is a quick template that allows a Unity project to be displayed 
 on a Dreamoc HD3 by Real Fiction (www.realfiction.com).
+
+Download https://github.com/Plan1130/DreamocHD3UnityCamera/releases/latest
 
 The Dreamoc itself is nothing but a fancy monitor, and does not do any 
 positioning/resizing of screens and requires the user to format video
@@ -18,6 +22,11 @@ setting of a camera to a RenderTexture (e.g. FrontRenderTexture). For
 this you will need 3 different cameras. If you want one camera displayed
 on different panels, you need to add the script CameraToBuffer to that
 camera, and add the RenderTextures to the 'textures' list.
+
+For a demo on how to use it, see my other project:
+https://github.com/Plan1130/DreamocHD3UnityCameraDemoProject
+It may bug you about whether or not Blender is installed, but it should 
+run perfectly fine without it. This is the open source MAVEN model, by NASA.
 
 NOTE1: The Dreamoc HD3 has a resolution of 1920x1080. You might want to
 stick to it. At the very least, keep a 16:9 ratio.
